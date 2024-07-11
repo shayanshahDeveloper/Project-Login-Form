@@ -41,11 +41,7 @@ signUpBtn.addEventListener("click", ()=>{
 [Login Form Website](https://shayanshahdeveloper.github.io/Project-Login-Form/)
 
 ## Developed By Shayan Shah
-Social media Handles 👇
+Social media Handles 👉
 [Linkdin](https://www.linkedin.com/in/shayan-shah-b31439296/)
 
-
-## Check out The Website 👇
-
-[Login Form WEbsite](https://choosealicense.com/licenses/mit/)
 
